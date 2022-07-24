@@ -11,7 +11,8 @@ public class Test1 {
 		System.out.println(s1);// s1.toString() --uses inherited version (from Object)
 		//create faculty object
 		Faculty f1=new Faculty("Raj","Seth",10,"DBT,Java,JS");
-		System.out.println(f1)
+		System.out.println(f1);
+		System.out.println("amit youchanges first changes");
 		
 	}
 

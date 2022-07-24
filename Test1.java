@@ -1,5 +1,5 @@
 package tester;
-
+//this changes is done by amit kumar singh
 import inheritance2.Faculty;
 import inheritance2.Student;
 

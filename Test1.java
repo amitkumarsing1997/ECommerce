@@ -1,4 +1,5 @@
 package tester;
+//aug firstweek release
 //this changes is done by amit kumar singh
 //aug branch 
 //aug branched again changed by amit
@@ -15,6 +16,9 @@ public class Test1 {
 		Faculty f1=new Faculty("Raj","Seth",10,"DBT,Java,JS");
 		System.out.println(f1);
 		System.out.println("amit youchanges first changes");
+		/*
+		use authentication of facebook authentication 
+		 */
 		
 	}
 
